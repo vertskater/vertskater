@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Graz, Austria
-* 🖥️  See my portfolio at [My Portfolio](https://https://portfolio-site-six-silk.vercel.app)
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio-site-six-silk.vercel.app)
 * ✉️  You can contact me at [chris.mitterwallner@gmail.com](mailto:chris.mitterwallner@gmail.com)
 * 🧠  I'm learning express
 * 🤝  I'm open to collaborating on Intersting Projects
